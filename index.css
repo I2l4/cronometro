@@ -1,0 +1,64 @@
+
+body{
+
+    background-color: #8d8d8d ;
+
+}
+
+.container{
+
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    background-color: black;
+    color: #00FFEF;
+    border-radius: 10px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+#temporizador{
+
+    font-size: 60px;
+    text-align: center;
+
+}
+
+.grupo-botoes{
+
+    padding: 20px;
+
+}
+
+button{
+
+    width: 70px;
+    border: 0;
+    border-radius: 4px;
+    padding: 8px;
+    
+}
+
+button:hover {
+
+    cursor: pointer;
+
+}
+
+button.btn-iniciar{
+
+    background-color: #00FFEF;
+
+}
+
+button.btn-pausar{
+
+    background-color:#20b2aa;
+
+}
+
+button.btn-zerar{
+
+    background-color: #008b8b;
+
+}
