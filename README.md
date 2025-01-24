@@ -7,7 +7,7 @@ O projeto é totalmente baseado em frontend, sem dependências externas ou backe
 
 - ⏱ **Iniciar**: Comece a contar o tempo.
 - ⏸ **Pausar**: Pause o cronômetro sem perder o progresso.
-- ⏹ **Reiniciar**: Zere o cronômetro para recomeçar.
+- ⏹ **Zerar**: Zere o cronômetro para recomeçar.
 
 ## Tecnologias Utilizadas
 
